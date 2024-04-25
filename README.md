@@ -1,7 +1,7 @@
 # New York Citi Bike: Advanced Analysis - Python Project
 ## **Project Overview**
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Ftracking-nyc-citi-bike-real-time-utilization-using-kafka-streams-1c0ea9e24e79&psig=AOvVaw1j5HZqK3RMn3pnf7Mesakn&ust=1714154537417000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIismbT53YUDFQAAAAAdAAAAABAF)
+![profile](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Ftracking-nyc-citi-bike-real-time-utilization-using-kafka-streams-1c0ea9e24e79&psig=AOvVaw1j5HZqK3RMn3pnf7Mesakn&ust=1714154537417000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIismbT53YUDFQAAAAAdAAAAABAF)
 
 
 ### **Company:**<br>
