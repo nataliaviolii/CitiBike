@@ -11,8 +11,8 @@ Details of this project can be found [here](https://drive.google.com/file/d/14Sa
 This analysis is intended to explore Cite Bike user behavior through advanced analysis. Focuses on correlation/regression analysis, clustering, geographic analysis, and statistical models in machine learning analysis.
 
 ### **Data Set:**<br> 
-Title: City Bike Data (September 2013 with original size 50000 rows and 18 columns)
-Source: [Kaggle](https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data).
+- Title: City Bike Data (September 2013 with original size 50000 rows and 18 columns)
+- Source: [Kaggle](https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data).
 
 ### **Analysis Questions:**<br>
 1. When is the busiest time (hour/day) for users to start biking? 
