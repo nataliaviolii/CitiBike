@@ -1,7 +1,7 @@
 # New York Citi Bike: Advanced Analysis - Python Project
 ## **Project Overview**
 
-![Alt text]([images/example.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjavilopezcastillo.medium.com%2Fmultiple-linear-regression-analysis-of-citi-bike-ridership-data-c49fd3f211f7&psig=AOvVaw3vn0Ux-l0gOZlfM9MW8FtK&ust=1717565163661000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICE8YKbwYYDFQAAAAAdAAAAABAJ))
+![Alt text](/Users/nataliawijaya/Downloads/cb_profile.jpg)
 
 ### **Company:**<br>
 Citi Bike is a New York City bike share system. It is the nation's largest bike share program with 25.000 bikes and more than 1.500 stations in Manhattan, Brooklyn, Queens, the Bronx, Jersey City, and Hoboken.
