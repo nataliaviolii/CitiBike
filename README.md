@@ -1,6 +1,8 @@
 # New York Citi Bike: Advanced Analysis - Python Project
 ## **Project Overview**
 
+![sites-rent-movies-online-fandangonow-featured](https://user-images.githubusercontent.com/130076002/231504282-92f6b383-84ba-40b4-8c25-7e291f3e5e71.jpg)
+
 ### **Company:**<br>
 Citi Bike is a New York City bike share system. It is the nation's largest bike share program with 25.000 bikes and more than 1.500 stations in Manhattan, Brooklyn, Queens, the Bronx, Jersey City, and Hoboken.
 
